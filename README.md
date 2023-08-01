@@ -1,2 +1,2 @@
 'My first readme'
-'Life is a journey '
+'Life is a journey'
