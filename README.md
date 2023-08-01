@@ -1,2 +1,1 @@
-'My first readme'
-'Life is a journey'
+'Stop stressing me'
